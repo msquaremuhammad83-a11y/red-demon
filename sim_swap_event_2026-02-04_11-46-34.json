@@ -1,0 +1,13 @@
+{
+    "timestamp": "2026-02-04_11-46-34",
+    "tool": "SIM SWAP EVENT",
+    "target": "+234 813 670 1225",
+    "results": {
+        "new_iccid": "8923407671978647790",
+        "new_phone_notified": "08100850290",
+        "owner_verified": "Zainab Bello",
+        "status": "COMPLETED",
+        "notification_sent": true,
+        "isp_header": "MTN"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "timestamp": "2026-02-03_15-30-21",
+    "tool": "SIM Security Audit",
+    "target": "+234 911 273 5840",
+    "results": {
+        "subscriber": "+234 911 273 5840",
+        "carrier": "Airtel",
+        "region": "Nigeria",
+        "sim_status": "ACTIVE",
+        "port_history": "1 Previous Change Detected",
+        "risk_score": 20,
+        "assessment": "[LOW RISK] Standard security protocols apply."
+    }
+}

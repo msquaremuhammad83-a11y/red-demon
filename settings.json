@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.smoothScrolling": true
+}

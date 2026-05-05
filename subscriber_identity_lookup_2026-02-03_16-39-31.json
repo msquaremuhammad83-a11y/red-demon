@@ -1,0 +1,16 @@
+{
+    "timestamp": "2026-02-03_16-39-31",
+    "tool": "Subscriber Identity Lookup",
+    "target": "+234 902 063 5431",
+    "results": {
+        "full_name": "Chidi Bello",
+        "dob": "24-5-1985",
+        "address": "45 Marina, Lagos",
+        "id_type": "BVN",
+        "id_number": "4163119785",
+        "reg_date": "2020-12-18",
+        "status": "Active",
+        "billing_type": "Prepaid",
+        "puk_code": "89254563"
+    }
+}

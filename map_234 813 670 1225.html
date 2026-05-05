@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_2dc2952a021af5f2045354461971d701 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_2dc2952a021af5f2045354461971d701" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_2dc2952a021af5f2045354461971d701 = L.map(
+                "map_2dc2952a021af5f2045354461971d701",
+                {
+                    center: [9.082, 8.6753],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 12,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_1da8a0909fa77fb376a3835722d1a9da = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_1da8a0909fa77fb376a3835722d1a9da.addTo(map_2dc2952a021af5f2045354461971d701);
+        
+    
+            var marker_fd89be263fe0655f903ac32bbf49a0de = L.marker(
+                [9.05416186107661, 8.629186420628297],
+                {
+}
+            ).addTo(map_2dc2952a021af5f2045354461971d701);
+        
+    
+            var icon_c2ff106456dd4d56a512d4eda4dc9cf5 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "signal",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_95750ae4b9395197df1af4f353c9a660 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c5566dfd4f7aa0df024eb75b2c116d9f = $(`<div id="html_c5566dfd4f7aa0df024eb75b2c116d9f" style="width: 100.0%; height: 100.0%;">BTS-2992</div>`)[0];
+                popup_95750ae4b9395197df1af4f353c9a660.setContent(html_c5566dfd4f7aa0df024eb75b2c116d9f);
+            
+        
+
+        marker_fd89be263fe0655f903ac32bbf49a0de.bindPopup(popup_95750ae4b9395197df1af4f353c9a660)
+        ;
+
+        
+    
+    
+                marker_fd89be263fe0655f903ac32bbf49a0de.setIcon(icon_c2ff106456dd4d56a512d4eda4dc9cf5);
+            
+    
+            var marker_05ce93eff7396ccc48c1982eac5bd9b9 = L.marker(
+                [9.12472937420165, 8.71452884352837],
+                {
+}
+            ).addTo(map_2dc2952a021af5f2045354461971d701);
+        
+    
+            var icon_94fb29fcbc7a8470cbd7a7b7ac441168 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "signal",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d40448db1aea852b7d5e86d7ed682984 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_541d2960d0e2f6d7c82a0bf250d0027b = $(`<div id="html_541d2960d0e2f6d7c82a0bf250d0027b" style="width: 100.0%; height: 100.0%;">BTS-5201</div>`)[0];
+                popup_d40448db1aea852b7d5e86d7ed682984.setContent(html_541d2960d0e2f6d7c82a0bf250d0027b);
+            
+        
+
+        marker_05ce93eff7396ccc48c1982eac5bd9b9.bindPopup(popup_d40448db1aea852b7d5e86d7ed682984)
+        ;
+
+        
+    
+    
+                marker_05ce93eff7396ccc48c1982eac5bd9b9.setIcon(icon_94fb29fcbc7a8470cbd7a7b7ac441168);
+            
+    
+            var marker_fa5ef9490582b8e77d1b72ee2a0d7804 = L.marker(
+                [9.05576532758987, 8.724017445328426],
+                {
+}
+            ).addTo(map_2dc2952a021af5f2045354461971d701);
+        
+    
+            var icon_9b070da491610af46c4e2774d0136bba = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "signal",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1b5774da5e79c37f086649a6674d3e23 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f3882177259176a916980fd7d36fc090 = $(`<div id="html_f3882177259176a916980fd7d36fc090" style="width: 100.0%; height: 100.0%;">BTS-1751</div>`)[0];
+                popup_1b5774da5e79c37f086649a6674d3e23.setContent(html_f3882177259176a916980fd7d36fc090);
+            
+        
+
+        marker_fa5ef9490582b8e77d1b72ee2a0d7804.bindPopup(popup_1b5774da5e79c37f086649a6674d3e23)
+        ;
+
+        
+    
+    
+                marker_fa5ef9490582b8e77d1b72ee2a0d7804.setIcon(icon_9b070da491610af46c4e2774d0136bba);
+            
+</script>
+</html>

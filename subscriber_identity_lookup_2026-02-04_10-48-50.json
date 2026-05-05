@@ -1,0 +1,16 @@
+{
+    "timestamp": "2026-02-04_10-48-50",
+    "tool": "Subscriber Identity Lookup",
+    "target": "+234 813 670 1225",
+    "results": {
+        "full_name": "Zainab Okonkwo",
+        "dob": "6-7-1984",
+        "address": "88 Ahmadu Bello Way, Kaduna",
+        "id_type": "NIN",
+        "id_number": "1965020951",
+        "reg_date": "2019-1-4",
+        "status": "Active",
+        "billing_type": "Prepaid",
+        "puk_code": "78949419"
+    }
+}

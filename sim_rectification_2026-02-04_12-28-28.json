@@ -1,0 +1,20 @@
+{
+    "timestamp": "2026-02-04_12-28-28",
+    "tool": "SIM Rectification",
+    "target": "+234 902 063 5431",
+    "results": {
+        "details": {
+            "full_name": "Zainab Eze",
+            "original_owner": true,
+            "dob": "26-12-1998",
+            "address": "12 Trans Amadi, PH",
+            "id_type": "NIN",
+            "id_number": "2539152532",
+            "reg_date": "2019-6-8",
+            "sim_serial_iccid": "8234097865476535420",
+            "status": "Registered & Active",
+            "puk_code": "55587262"
+        },
+        "sync": "Success"
+    }
+}

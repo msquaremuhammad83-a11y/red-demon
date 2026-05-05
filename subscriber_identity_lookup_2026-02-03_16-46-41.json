@@ -1,0 +1,16 @@
+{
+    "timestamp": "2026-02-03_16-46-41",
+    "tool": "Subscriber Identity Lookup",
+    "target": "+234 704 761 5646",
+    "results": {
+        "full_name": "Chidi Musa",
+        "dob": "5-12-1989",
+        "address": "123 Garki, Abuja",
+        "id_type": "BVN",
+        "id_number": "2296812118",
+        "reg_date": "2015-12-28",
+        "status": "Active",
+        "billing_type": "Postpaid",
+        "puk_code": "82555581"
+    }
+}

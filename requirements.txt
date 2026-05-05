@@ -1,0 +1,7 @@
+scapy
+requests
+colorama
+dnspython
+phonenumbers
+pyotp
+folium

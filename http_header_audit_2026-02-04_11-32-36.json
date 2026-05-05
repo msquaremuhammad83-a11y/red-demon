@@ -1,0 +1,31 @@
+{
+    "timestamp": "2026-02-04_11-32-36",
+    "tool": "HTTP Header Audit",
+    "target": "https://abu.edu.ng",
+    "results": {
+        "Strict-Transport-Security": {
+            "status": "Missing",
+            "description": "Protects against MITM by forcing HTTPS."
+        },
+        "Content-Security-Policy": {
+            "status": "Missing",
+            "description": "Prevents XSS and data injection."
+        },
+        "X-Frame-Options": {
+            "status": "Missing",
+            "description": "Prevents Clickjacking."
+        },
+        "X-Content-Type-Options": {
+            "status": "Missing",
+            "description": "Prevents MIME sniffing."
+        },
+        "Referrer-Policy": {
+            "status": "Missing",
+            "description": "Controls how much referrer info is shared."
+        },
+        "Permissions-Policy": {
+            "status": "Present",
+            "value": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")"
+        }
+    }
+}

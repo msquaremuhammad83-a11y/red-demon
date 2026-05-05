@@ -1,0 +1,12 @@
+{
+    "timestamp": "2026-02-04_11-00-23",
+    "tool": "SIM SWAP EVENT",
+    "target": "+234 813 670 1225",
+    "results": {
+        "new_iccid": "3026517686928766390",
+        "new_phone_notified": "08136701225",
+        "status": "COMPLETED",
+        "notification_sent": true,
+        "isp_header": "MTN"
+    }
+}

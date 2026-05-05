@@ -1,0 +1,17 @@
+{
+    "timestamp": "2026-02-04_11-59-25",
+    "tool": "Subscriber Identity Lookup",
+    "target": "+234 911 273 5840",
+    "results": {
+        "full_name": "Chidi Balogun",
+        "original_owner": true,
+        "dob": "14-2-1990",
+        "address": "15 Sabon Gari, Kano",
+        "id_type": "NIN",
+        "id_number": "3919982359",
+        "reg_date": "2022-12-9",
+        "sim_serial_iccid": "8923474008560539396",
+        "status": "Registered & Active",
+        "puk_code": "16092975"
+    }
+}

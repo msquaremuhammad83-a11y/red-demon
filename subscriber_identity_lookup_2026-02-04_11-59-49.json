@@ -1,0 +1,17 @@
+{
+    "timestamp": "2026-02-04_11-59-49",
+    "tool": "Subscriber Identity Lookup",
+    "target": "+234 911 273 5840",
+    "results": {
+        "full_name": "Emeka Bello",
+        "original_owner": true,
+        "dob": "15-2-1980",
+        "address": "12 Trans Amadi, PH",
+        "id_type": "NIN",
+        "id_number": "8146903507",
+        "reg_date": "2017-10-8",
+        "sim_serial_iccid": "8923407836652768920",
+        "status": "Registered & Active",
+        "puk_code": "72492794"
+    }
+}

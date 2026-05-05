@@ -1,0 +1,13 @@
+{
+    "timestamp": "2026-02-04_12-20-03",
+    "tool": "SIM SWAP EVENT",
+    "target": "+234 813 670 1225",
+    "results": {
+        "new_iccid": "8234087689655543260",
+        "new_phone_notified": "08035981760",
+        "owner_verified": "Tunde Eze",
+        "status": "COMPLETED",
+        "notification_sent": true,
+        "isp_header": "MTN"
+    }
+}

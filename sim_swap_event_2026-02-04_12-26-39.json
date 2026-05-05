@@ -1,0 +1,13 @@
+{
+    "timestamp": "2026-02-04_12-26-39",
+    "tool": "SIM SWAP EVENT",
+    "target": "+234 902 063 5431",
+    "results": {
+        "new_iccid": "8234098976456637289",
+        "new_phone_notified": "08035981760",
+        "owner_verified": "Zainab Bello",
+        "status": "COMPLETED",
+        "notification_sent": true,
+        "isp_header": "AIRTEL"
+    }
+}

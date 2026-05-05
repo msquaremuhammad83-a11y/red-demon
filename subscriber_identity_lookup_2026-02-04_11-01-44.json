@@ -1,0 +1,17 @@
+{
+    "timestamp": "2026-02-04_11-01-44",
+    "tool": "Subscriber Identity Lookup",
+    "target": "+234 813 670 1225",
+    "results": {
+        "full_name": "Zainab Okonkwo",
+        "original_owner": true,
+        "dob": "6-7-1984",
+        "address": "88 Ahmadu Bello Way, Kaduna",
+        "id_type": "NIN",
+        "id_number": "1965020951",
+        "reg_date": "2019-1-4",
+        "sim_serial_iccid": "8923452644685154388",
+        "status": "Registered & Active",
+        "puk_code": "95095872"
+    }
+}

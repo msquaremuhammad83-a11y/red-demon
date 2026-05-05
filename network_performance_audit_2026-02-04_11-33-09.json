@@ -1,0 +1,13 @@
+{
+    "timestamp": "2026-02-04_11-33-09",
+    "tool": "Network Performance Audit",
+    "target": "abu.edu.ng",
+    "results": {
+        "target": "abu.edu.ng",
+        "pings": [],
+        "min_latency": 4.593610763549805,
+        "max_latency": 8.96310806274414,
+        "avg_latency": 6.654214859008789,
+        "packet_loss": 0.0
+    }
+}

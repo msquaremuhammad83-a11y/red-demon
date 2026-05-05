@@ -1,0 +1,12 @@
+{
+    "timestamp": "2026-02-03_16-35-36",
+    "tool": "SIM SWAP EVENT",
+    "target": "+234 902 063 5431",
+    "results": {
+        "new_iccid": "7978786546734543256",
+        "new_phone_notified": "09020635431",
+        "status": "COMPLETED",
+        "notification_sent": true,
+        "isp_header": "AIRTEL"
+    }
+}
